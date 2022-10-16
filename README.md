@@ -51,3 +51,12 @@ Cascadia Code is the default font for the Windows Terminal and Visual Studio and
 italic, and cursive font, and it also has extra support for embedding Powerline symbols.
 
 it’s open-source too, so you can try it out yourself.
+
+## [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+<img src="https://user-images.githubusercontent.com/101124008/196044103-841eb09e-ce3f-4afa-bb26-606aae037e9a.png" alt="Source Code Pro" width="800">
+
+If you use a JetBrains IDE, you may be familiar with this font. It’s made specifically for developers and optimized for reading large volumes of code, sounds very good right?
+
+Well, JetBrains Mono comes packed with nearly 140 code ligatures, 8 weights each with italics, and support for 145 languages.
+
