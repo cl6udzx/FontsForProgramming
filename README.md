@@ -25,15 +25,29 @@ IDEs and developer tools don’t always come with the best font. They usually us
  A good font can minimize headaches, make your code easier to scan, and even **revolutionize** how you work.
 <br></br>
 
-## Fira  code
-
+## [Fira Code](https://github.com/tonsky/FiraCode)
 
 <img src="https://user-images.githubusercontent.com/101124008/196033389-206c3565-d9b4-4312-853d-e68bd0bccecf.png" alt="Fira Code" width="800">
 
-[Fira Code](https://github.com/tonsky/FiraCode) is based on a special programming ligature by **Fira Mono** typeface from Mozilla, It is a great choice for those who particularly like to use a combination of letters such as “æ” including diphthongs.
+Fira Code is based on a special programming ligature by **Fira Mono** typeface from Mozilla, It is a great choice for those who particularly like to use a combination of letters such as “æ” including diphthongs.
 
 Fira Code is supported by most browsers, and you can see how it looks in the real-world code examples.
 
 With Fira code, you get the **best** and **improved ability** to scan through your code accompanied by ligatures for **arrow functions**, **equality**, and alot more.
 
-##
+## [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+
+<img src="https://user-images.githubusercontent.com/101124008/196043400-de394599-0bad-43e7-b575-2307fedc95f8.png" alt="Source Code Pro" width="800">
+
+**Adobe** has published several open-source fonts in their Source Sans family, and this one is monospaced and made explicitly, Though the regular weight will work for most programming applications, a range of weights is available if you need them.
+
+While this font is pretty similar to the **Source Sans**, it had a few changes to better suit coders: optimized symbols, dotted zero, modified **“i,” “j,”, “l”** and alot more.
+
+## [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+<img src="https://user-images.githubusercontent.com/101124008/196043970-78bb8e43-d0ba-4cab-8ca2-c375aa7ed2a8.png" alt="Source Code Pro" width="800">
+
+Cascadia Code is the default font for the Windows Terminal and Visual Studio(which coincidentally is the font I use in vscode), It includes a default, mono, 
+italic, and cursive font, and it also has extra support for embedding Powerline symbols.
+
+it’s open-source too, so you can try it out yourself.
