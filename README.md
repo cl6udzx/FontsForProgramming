@@ -35,3 +35,5 @@ IDEs and developer tools don’t always come with the best font. They usually us
 Fira Code is supported by most browsers, and you can see how it looks in the real-world code examples.
 
 With Fira code, you get the **best** and **improved ability** to scan through your code accompanied by ligatures for **arrow functions**, **equality**, and alot more.
+
+##
