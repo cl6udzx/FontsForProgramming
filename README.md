@@ -22,6 +22,7 @@ IDEs and developer tools don’t always come with the best font. They usually us
 
  A good font can minimize headaches, make your code easier to scan, and even **revolutionize** how you work.
 <br></br>
+
 # Fira  code
 
-![image](https://user-images.githubusercontent.com/101124008/196031889-204e2c38-5387-4efe-a01d-35089260082e.png)
+<img src="https://user-images.githubusercontent.com/101124008/196031889-204e2c38-5387-4efe-a01d-35089260082e.png" />
