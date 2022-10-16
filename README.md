@@ -47,8 +47,8 @@ While this font is pretty similar to the **Source Sans**, it had a few changes t
 
 <img src="https://user-images.githubusercontent.com/101124008/196043970-78bb8e43-d0ba-4cab-8ca2-c375aa7ed2a8.png" alt="Source Code Pro" width="800">
 
-Cascadia Code is the default font for the Windows Terminal and Visual Studio and coincidentally is the font I use in vscode, It includes a default, mono, 
-italic, and cursive font, and it also has extra support for embedding Powerline symbols.
+Cascadia Code is the default font for the **Windows Terminal** and **Visual Studio** and coincidentally is the font I use in vscode, It includes a default, **mono, 
+italic, and cursive font**, and it also has extra support for embedding Powerline symbols.
 
 it’s open-source too, so you can try it out yourself.
 
@@ -58,5 +58,5 @@ it’s open-source too, so you can try it out yourself.
 
 If you use a JetBrains IDE, you may be familiar with this font. It’s made specifically for developers and optimized for reading large volumes of code, sounds very good right?
 
-Well, JetBrains Mono comes packed with nearly 140 code ligatures, 8 weights each with italics, and support for 145 languages.
+Well, JetBrains Mono comes packed with nearly **140** code ligatures, **8** weights each with italics, and support for **145** languages.
 
